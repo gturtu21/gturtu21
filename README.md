@@ -4,13 +4,13 @@
 
 - 🔬 Currently Working On
 
-Learning equivariant neural networks (e3nn)
+    -  Learning equivariant neural networks (e3nn)
 
-Implementing message passing for atomistic graphs
+    - Implementing message passing for atomistic graphs
 
-Building toy ML potentials from scratch
+    -  Building toy ML potentials from scratch
 
-Reproducing papers like NequIP / Allegro / MACE
+    - Reproducing papers like NequIP / Allegro / MACE
 
 <!---
 gturtu21/gturtu21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
